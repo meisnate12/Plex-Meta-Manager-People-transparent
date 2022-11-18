@@ -1,0 +1,10 @@
+# Plex Meta Manager People - Transparent (transparent) - Q (8 Images)
+
+* [Queen Latifah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Q/Images/Queen%20Latifah.png)
+* [Quentin Dupieux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Q/Images/Quentin%20Dupieux.png)
+* [Quentin Tarantino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Q/Images/Quentin%20Tarantino.png)
+* [Questlove](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Q/Images/Questlove.png)
+* [Quim Gutiérrez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Q/Images/Quim%20Guti%C3%A9rrez.png)
+* [Quincy Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Q/Images/Quincy%20Jones.png)
+* [Quinn Duffy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Q/Images/Quinn%20Duffy.png)
+* [Quinton Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Q/Images/Quinton%20Jackson.png)
