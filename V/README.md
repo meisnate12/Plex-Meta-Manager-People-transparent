@@ -1,8 +1,9 @@
-# Plex Meta Manager People - Transparent (transparent) - V (76 Images)
+# Plex Meta Manager People - Transparent (transparent) - V (77 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/V/Images/V.J.%20Foster.png)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/V/Images/Vaibhav%20Sethia.png)
 * [Val Kilmer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/V/Images/Val%20Kilmer.png)
+* [Valarie Rae Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/V/Images/Valarie%20Rae%20Miller.png)
 * [Valerie Leon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/V/Images/Valerie%20Leon.png)
 * [Van Quattro](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/V/Images/Van%20Quattro.png)
 * [Vanessa Aspillaga](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/V/Images/Vanessa%20Aspillaga.png)

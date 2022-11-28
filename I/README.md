@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Transparent (transparent) - I (79 Images)
+# Plex Meta Manager People - Transparent (transparent) - I (80 Images)
 
 * [Iain Armitage](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/I/Images/Iain%20Armitage.png)
 * [Iain Glen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/I/Images/Iain%20Glen.png)
@@ -59,6 +59,7 @@
 * [Isabella Paul](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/I/Images/Isabella%20Paul.png)
 * [Isabella Rossellini](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/I/Images/Isabella%20Rossellini.png)
 * [Isabella Sermon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/I/Images/Isabella%20Sermon.png)
+* [Isabella Wei](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/I/Images/Isabella%20Wei.png)
 * [Isabelle Fuhrman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/I/Images/Isabelle%20Fuhrman.png)
 * [Isao Takahata](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/I/Images/Isao%20Takahata.png)
 * [Ishirō Honda](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/I/Images/Ishir%C5%8D%20Honda.png)

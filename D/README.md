@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Transparent (transparent) - D (463 Images)
+# Plex Meta Manager People - Transparent (transparent) - D (464 Images)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/D/Images/D.L.%20Hughley.png)
 * [D.R. Nanayakkara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/D/Images/D.R.%20Nanayakkara.png)
@@ -361,6 +361,7 @@
 * [Dimitri Diatchenko](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/D/Images/Dimitri%20Diatchenko.png)
 * [Dina Meyer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/D/Images/Dina%20Meyer.png)
 * [Dina Shihabi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/D/Images/Dina%20Shihabi.png)
+* [Dirk Blocker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/D/Images/Dirk%20Blocker.png)
 * [Divian Ladwa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/D/Images/Divian%20Ladwa.png)
 * [Djimon Hounsou](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/D/Images/Djimon%20Hounsou.png)
 * [Dmitrious Bistrevsky](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/D/Images/Dmitrious%20Bistrevsky.png)

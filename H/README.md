@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Transparent (transparent) - H (150 Images)
+# Plex Meta Manager People - Transparent (transparent) - H (151 Images)
 
 * [H. Jon Benjamin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/H/Images/H.%20Jon%20Benjamin.png)
 * [Haaz Sleiman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/H/Images/Haaz%20Sleiman.png)
@@ -54,6 +54,7 @@
 * [Harry Gregson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/H/Images/Harry%20Gregson.png)
 * [Harry Kirton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/H/Images/Harry%20Kirton.png)
 * [Harry Lennix](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/H/Images/Harry%20Lennix.png)
+* [Harry Lloyd](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/H/Images/Harry%20Lloyd.png)
 * [Harry Melling](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/H/Images/Harry%20Melling.png)
 * [Harry Saltzman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/H/Images/Harry%20Saltzman.png)
 * [Harry Shum Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/H/Images/Harry%20Shum%20Jr..png)
