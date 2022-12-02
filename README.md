@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Transparent (transparent) (6580 Images)
+# Plex Meta Manager People - Transparent (transparent) (6581 Images)
 
 <details><summary><a href="A">A (537 Images)</a></summary>
 
@@ -3467,7 +3467,7 @@
 * [Jóhannes Haukur Jóhannesson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/J%C3%B3hannes%20Haukur%20J%C3%B3hannesson.png)
 * [Jördis Triebel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/J/Images/J%C3%B6rdis%20Triebel.png)
 </details>
-<details><summary><a href="K">K (296 Images)</a></summary>
+<details><summary><a href="K">K (297 Images)</a></summary>
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/K/Images/K%20Raghavendra%20Rao.png)
 * [K.J. Apa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/K/Images/K.J.%20Apa.png)
@@ -3605,6 +3605,7 @@
 * [Kelsey Grammer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/K/Images/Kelsey%20Grammer.png)
 * [Kelson Henderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/K/Images/Kelson%20Henderson.png)
 * [Kemp Powers](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/K/Images/Kemp%20Powers.png)
+* [Ken  Burns](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/K/Images/Ken%20%20Burns.png)
 * [Ken Davitian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/K/Images/Ken%20Davitian.png)
 * [Ken Hudson Campbell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/K/Images/Ken%20Hudson%20Campbell.png)
 * [Ken Jeong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/K/Images/Ken%20Jeong.png)
