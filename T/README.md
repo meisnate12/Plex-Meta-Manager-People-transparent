@@ -1,7 +1,8 @@
-# Plex Meta Manager People - Transparent (transparent) - T (316 Images)
+# Plex Meta Manager People - Transparent (transparent) - T (317 Images)
 
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/T.%20J.%20Miller.png)
 * [T.I.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/T.I..png)
+* [T.J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/T.J.%20Miller.png)
 * [Tadanobu Asano](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/Tadanobu%20Asano.png)
 * [Tahmoh Penikett](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/Tahmoh%20Penikett.png)
 * [Taika Waititi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/T/Images/Taika%20Waititi.png)

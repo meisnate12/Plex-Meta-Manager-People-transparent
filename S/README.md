@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Transparent (transparent) - S (449 Images)
+# Plex Meta Manager People - Transparent (transparent) - S (451 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/S.%20S.%20Rajamouli.png)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Saagar%20Shaikh.png)
@@ -44,6 +44,7 @@
 * [Sam Robards](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Sam%20Robards.png)
 * [Sam Rockwell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Sam%20Rockwell.png)
 * [Sam Shepard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Sam%20Shepard.png)
+* [Sam Troughton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Sam%20Troughton.png)
 * [Sam Worthington](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Sam%20Worthington.png)
 * [Samantha Bond](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Samantha%20Bond.png)
 * [Samantha Morton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Samantha%20Morton.png)
@@ -324,6 +325,7 @@
 * [Stefanie Wiens](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Stefanie%20Wiens.png)
 * [Stella Stocker](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Stella%20Stocker.png)
 * [Stellan Skarsgård](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Stellan%20Skarsg%C3%A5rd.png)
+* [Stephan Kampwirth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Stephan%20Kampwirth.png)
 * [Stephanie Beatriz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Stephanie%20Beatriz.png)
 * [Stephanie Czajkowski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Stephanie%20Czajkowski.png)
 * [Stephanie Hsu](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/S/Images/Stephanie%20Hsu.png)

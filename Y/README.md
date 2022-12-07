@@ -1,6 +1,7 @@
-# Plex Meta Manager People - Transparent (transparent) - Y (27 Images)
+# Plex Meta Manager People - Transparent (transparent) - Y (28 Images)
 
 * [Yahya Abdul-Mateen II](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Y/Images/Yahya%20Abdul-Mateen%20II.png)
+* [Yann Gael](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Y/Images/Yann%20Gael.png)
 * [Yaphet Kotto](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Y/Images/Yaphet%20Kotto.png)
 * [Yara Martinez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Y/Images/Yara%20Martinez.png)
 * [Yariv Lerner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/Y/Images/Yariv%20Lerner.png)

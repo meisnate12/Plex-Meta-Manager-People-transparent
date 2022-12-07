@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Transparent (transparent) - R (410 Images)
+# Plex Meta Manager People - Transparent (transparent) - R (412 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/R.%20Lee%20Ermey.png)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/R.%20Madhavan.png)
@@ -101,6 +101,7 @@
 * [Reid Scott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Reid%20Scott.png)
 * [Reinaldo Marcus Green](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Reinaldo%20Marcus%20Green.png)
 * [Remo Girone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Remo%20Girone.png)
+* [Remy Hii](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Remy%20Hii.png)
 * [Renato Carpentieri](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Renato%20Carpentieri.png)
 * [Rene Russo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Rene%20Russo.png)
 * [Renes Rivera](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Renes%20Rivera.png)
@@ -334,6 +335,7 @@
 * [Rory Kinnear](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Rory%20Kinnear.png)
 * [Rory McCann](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Rory%20McCann.png)
 * [Rory Scovel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Rory%20Scovel.png)
+* [Rosalie Craig](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Rosalie%20Craig.png)
 * [Rosalind Chao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Rosalind%20Chao.png)
 * [Rosamund Pike](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Rosamund%20Pike.png)
 * [Rosana Sullivan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-transparent/master/R/Images/Rosana%20Sullivan.png)
